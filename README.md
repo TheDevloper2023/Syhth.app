@@ -1,7 +1,7 @@
 # Syhth.app 2.0
 ## What is this?
 
-It is a freeware web app that uses Tacotron2 with Deepmoji and an Emotional Contextualization thing. As it vocoder it uses HiFi-GAN!
+It is a freeware web app that uses Tacotron2 with Deepmoji and Emotional Contextualization. As it vocoder it uses HiFi-GAN!
 
 ## Motivation
 (I'll add it later)
@@ -9,18 +9,18 @@ It is a freeware web app that uses Tacotron2 with Deepmoji and an Emotional Cont
 ## ToDo list:
 
 ### Train:
-[] The mane 6 and some other characters form /mlp/,
-[] Tf2 characters
-[] Bluey?
+- [] The mane 6 and some other characters form /mlp/,
+- [] Tf2 characters
+- [] Bluey?
 
 ### Backend:
-N/A
+- N/A
 
 ### FrontEnd:
-N/A
+- N/A
 
 ### Misc:
-Make a tutorial on how to run this locally
-Publish Models
+- [] Make a tutorial on how to run this locally
+- [] Publish Models
 
 
