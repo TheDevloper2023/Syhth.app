@@ -1,4 +1,4 @@
-# Syhth.app 2.0
+# Tacotron2 Better
 ## What is this?
 
 It is a freeware web app that uses Tacotron2 with Deepmoji and Emotional Contextualization. As it vocoder it uses HiFi-GAN!
